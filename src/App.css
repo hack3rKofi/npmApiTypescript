@@ -1,0 +1,26 @@
+.custom-loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rendered {
+  margin-top: 25px;
+  padding-top: 10px;
+  height: 70vh;
+  overflow: auto;
+}
+
+.renderIcon {
+  display: flex;
+  align-items: center;
+}
+
+.innerIcon {
+  font-size: 40px;
+  text-align: center;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-right: 50px;
+}
